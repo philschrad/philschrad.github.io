@@ -1,0 +1,32 @@
+[census]:https://ipoint.uwa.edu.au/app/answers/detail/a_id/187/related/1
+[Unit reader]:https://lms.uwa.edu.au/bbcswebdav/pid-915626-dt-content-rid-6803912_1/courses/MATH1011_TS-SUMM-B_2018/notes/MATH1011_Reader_2017_02%281%29.pdf
+[Lecturettes]:https://lms.uwa.edu.au/bbcswebdav/pid-918643-dt-content-rid-6833067_1/courses/MATH1011_TS-SUMM-B_2018/html%20files/MATH1011%20lectures.html
+
+###MATH1011 Summer 2017/18 
+# Unit plan (draft)
+
+
+
+Date | Workshop | Content | [Lecturettes] | [Unit reader]
+--- | --- | --- |--- |--- 
+4/12|1| $\mathbb{R}^n$, multivariable and vector valued functions, visualisations |1.1-1.4|Chapter 1
+6/12|2| Limits of functions of one variable, vector valued functions, and functions of two variables, continuity |2.1-2.7 | Chapter 2
+8/12|3| Differentiation of functions of one variable, L'hospital's rule, inverse functions |3.1-3.3 | 3.1-3.3
+11/12|4| Differentiation of vector valued functions, motion in space|3.4, 3.6| 3.4, 3.6 
+13/12|5| Partial derivatives  tangent vectors, tangent planes |3.6-3.10| 3.6, 3.7
+15/12|6| Chain rule for partial derivatives, directional derivatives, differentiability of multivariable functions, Jacobian matrix|3.11-3.14|3.7-3.10
+18/12|7| Extrema of multivariable functions| 4.1-4.5| Chapter 4
+20/12|8| Integration substitution, partial fractions, and parts| 5.1,5.2,5.4,5.5 | 6.2 excluding 6.2.3
+22/12|| **Mid-summester test (30%)**
+|| | _Christmas/New year_
+5/1|| [*Census and Academic withdrawal*][census]
+8/1|9| Riemann sums and integrals with applications, fundamental theorem of calculus
+10/1|10| Double and triple integrals
+12/1|11| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates
+15/1|12| Parametric forms of curves and surfaces, lengths of curves
+17/1|13| Path and surface integrals of functions and vector fields
+19/1|14| 
+22/1|15|	Differential equations, solutions and applications, first order ODE solution techniques
+24/1|16|	Solution techniques for linear second order ODE
+26/1||*Australia Day, no classes*
+3/2||**Examination period begins**
