@@ -6,7 +6,8 @@ layout: page
 [Unit reader]:https://lms.uwa.edu.au/bbcswebdav/pid-915626-dt-content-rid-6803912_1/courses/MATH1011_TS-SUMM-B_2018/notes/MATH1011_Reader_2017_02%281%29.pdf
 [Lecturettes]:MATH1011_lectures.html
 
-### MATH1011 Summer 2017/18 
+MATH1011 Summer 2017/18 
+
 # Unit plan
 
 
