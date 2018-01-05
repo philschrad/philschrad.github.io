@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### MATH1012 Summer 2017/18 
+MATH1012 Summer 2017/18 
 
 # Problem sets
 
