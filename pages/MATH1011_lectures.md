@@ -1,5 +1,6 @@
 ---
 layout: page
+title: null
 ---
 
 ## MATH1011 Summer 2017/18 lectures and notes
