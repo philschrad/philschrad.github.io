@@ -1,10 +1,10 @@
 ---
 layout: page
-title: null
 ---
 
-blah
-MATH1011 Summer 2017/18 lectures and notes
+MATH1011 Summer 2017/18 
+
+## Lectures and notes
 
 **Jump to Chapter** [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10)
 
