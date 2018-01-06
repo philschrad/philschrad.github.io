@@ -11,8 +11,8 @@ MATH1011 Summer 2017/18
 
 
 #### <a name="1"> 1 Vector valued functions and functions of several variables</a>
-[notes](chapter_1.pdf)
-[skeleton notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%201%20skeleton.pdf)
+[notes](1011_1.pdf)
+[skeleton notes](1011_1_sk.pdf)
 
 * [Introduction](https://youtu.be/OoBpM5HwtYw)
 * [1.1a Vector spaces, subsets](https://youtu.be/YcVnLtSYOZs)
@@ -23,8 +23,8 @@ MATH1011 Summer 2017/18
 
 #### <a name="2">2 Limits and continuity</a>
 
-[notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%202.pdf),
-[skeleton notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%202%20sk.pdf)
+[notes](1011_2.pdf)
+[skeleton notes](1011_2_sk.pdf)
 
 * [2.1 Limit at a point](https://youtu.be/CtEHBLknOII)
 * [2.2 Limit at infinity](https://youtu.be/RRx776aN1ug)
@@ -37,8 +37,8 @@ MATH1011 Summer 2017/18
 
 
 #### <a name="3"> 3 Differentiation </a>
-[notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%203.pdf),
-[skeleton notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%203%20sk.pdf)
+[notes](1011_3.pdf)
+[skeleton notes](1011_3_sk.pdf)
 
 * [3.1 Differentiation revision](https://youtu.be/1Un4FBZEZXk)
 * [3.2 Inverse functions](https://youtu.be/bPT3ugXhH1g)
@@ -59,7 +59,8 @@ MATH1011 Summer 2017/18
 
 #### <a name="4"> 4 Maxima and minima </a>
 
-[notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%204.pdf)
+[notes](1011_4.pdf)
+[skeleton notes](1011_4_sk.pdf)
 
 * [4.1 Extrema of functions of one variable](https://youtu.be/C0tv4vmr87A) (mostly revision)
 * [4.2 Identifying local maxima and minima](https://youtu.be/RvtuTsi3E7E)
@@ -70,13 +71,17 @@ MATH1011 Summer 2017/18
 
 #### <a name="5"> 5 Integration </a>
 
-[notes](https://lms.uwa.edu.au/bbcswebdav/courses/MATH1011_TS-SUMM-B_2018/notes/Chapter%205.pdf)
+[notes](1011_5.pdf)
+[skeleton notes](1011_5_sk.pdf)
 
 * [5.1 Integration review](https://youtu.be/Fo-g_mF2sQ8)
 * [5.2 Integration techniques](https://youtu.be/qu4KL-UF8Rw)
 * 5.3 Integration by inverse substitution (no video, not for assessment)
 * [5.4 Partial fractions](https://youtu.be/IZuLXtf68W8)
 * [5.5 Integration by parts](https://youtu.be/8E9gblpOMEE)
+* [5.6 Riemann sums and integrals](https://youtu.be/i5uf60gSWvc)
+* [5.7a Applications of Riemann sums](https://youtu.be/wcp9xMoc5Lo)
+* [5.7b Lengths of curves](https://youtu.be/mdb-KuKYabs)
 
 #### <a name="6"> 6 Double and triple integrals </a>
 
