@@ -80,8 +80,8 @@ MATH1011 Summer 2017/18
 * [5.4 Partial fractions](https://youtu.be/IZuLXtf68W8)
 * [5.5 Integration by parts](https://youtu.be/8E9gblpOMEE)
 * [5.6 Riemann sums and integrals](https://youtu.be/i5uf60gSWvc)
-* [5.7a Applications of Riemann sums](https://youtu.be/wcp9xMoc5Lo)
-* [5.7b Lengths of curves](https://youtu.be/mdb-KuKYabs)
+* [5.7a Applications of Riemann sums](https://youtu.be/m7B6Mt5O5sY)
+* [5.7b Lengths of curves](https://youtu.be/FLRfnK4hLB4)
 
 #### <a name="6"> 6 Double and triple integrals </a>
 
