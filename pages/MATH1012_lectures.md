@@ -79,6 +79,16 @@ MATH1012 *Summer 2017/18*
 
 #### <a name="7"> 7 Probability and statistics </a>
 
+[notes](1012_7.pdf),
+[skeleton notes](1012_7_sk.pdf)
+
+* [7.1 Probability review](https://youtu.be/5Reg4y5VuG0)
+* [7.2a Discrete random variables](https://youtu.be/pOCnQHnUecI)
+* [7.2b Discrete random variables](https://youtu.be/fejHRxzOKwA)
+* [7.3 Continuous random variables](https://youtu.be/9hrSnUwzyxY)
+* [7.4a Some probability density functions](https://youtu.be/5Nn_zWNtUI8)
+* [7.4b The normal distribution](https://youtu.be/rw9f9ojtyww)
+
 #### <a name="8"> 8 Sequences and series </a>
 
 #### <a name="9"> 9 Fourier series</a>
