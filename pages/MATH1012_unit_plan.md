@@ -7,7 +7,7 @@ layout: page
 [Unit reader]:https://lms.uwa.edu.au/bbcswebdav/courses/MATH1012_TS-SUMM-B_2018/notes/MATH1012_Reader.pdf
 
 MATH1012 Summer 2017/18 
-# Unit plan (draft)
+# Unit plan
 
 Date | Workshop | Topics | [Lecturettes] | [Unit reader]
 --- | --- | --- |--- |--- 
