@@ -25,12 +25,12 @@ Date | Workshop | Content | [Lecturettes] | [Unit reader]
 22/12|| **Mid-summester test (30%)**
  | | _Christmas/New year_||
 5/1|| [*Census and Academic withdrawal*][census]
-8/1|9| Riemann sums and integrals with applications, fundamental theorem of calculus
-10/1|10| Double and triple integrals
-12/1|11| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates
-15/1|12| Parametric forms of curves and surfaces, lengths of curves
-17/1|13| Path and surface integrals of functions and vector fields
-19/1|14| 
+8/1|9| Riemann sums and integrals with applications | 5.6, 5.7| 6.3, 6.5
+10/1|10| Double integrals |6.1-6.3 | 7.1
+12/1|11| Triple integrals |
+15/1|12| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates
+17/1|13| Parametric forms of curves and surfaces, lengths of curves
+19/1|14| Path and surface integrals of functions and vector fields
 22/1|15|	Differential equations, solutions and applications, first order ODE solution techniques
 24/1|16|	Solution techniques for linear second order ODE
 26/1||*Australia Day, no classes*

@@ -85,6 +85,13 @@ MATH1011 Summer 2017/18
 
 #### <a name="6"> 6 Double and triple integrals </a>
 
+[notes](1011_6.pdf)
+[skeleton notes](1011_6_sk.pdf)
+
+* [6.1 Double integrals](https://youtu.be/F9OyWTy5j20)
+* [6.2 Calculating double integrals](https://youtu.be/J5tilmXIq1Q), continued [here](https://youtu.be/lkb1ihSYkxs)
+* [6.3 The integral as a weighted sum](https://youtu.be/tkvOk68l2xA)
+
 #### <a name="7"> 7 Change of coordinates in double and triple integrals </a>
 
 #### <a name="8"> 8 Path and surface integrals </a>
