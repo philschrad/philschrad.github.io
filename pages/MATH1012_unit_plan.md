@@ -22,8 +22,8 @@ Date | Workshop | Topics | [Lecturettes] | [Unit reader]
 22/12|| **Mid-summester test (30%)**
  || _Christmas/New year_|
 5/1||[*Census and Academic withdrawal*][census]
-8/1|9| probability models, random variables
-10/11|10| statistical inference, estimation, hypothesis testing
+8/1|9| probability models, random variables| 7.1-7.4| 8.1,8.2
+10/11|10| statistical inference, estimation, hypothesis testing|7.5-7.8| 8.3
 12/1|11| sequences, series, examples, test for divergence, limit comparison test 
 15/1|12| integral test, alternating series test, ratio test, power series
 17/1|13| Fourier series, coefficients, convergence, even and odd functions

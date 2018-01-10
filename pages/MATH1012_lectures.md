@@ -88,6 +88,10 @@ MATH1012 *Summer 2017/18*
 * [7.3 Continuous random variables](https://youtu.be/9hrSnUwzyxY)
 * [7.4a Some probability density functions](https://youtu.be/5Nn_zWNtUI8)
 * [7.4b The normal distribution](https://youtu.be/rw9f9ojtyww)
+* [7.5 Statistical inference](https://youtu.be/cOCqYwexatg)
+* [7.6 The distribution of the mean estimator](https://youtu.be/PvZgkyaldqQ), a computer simulation of the [central limit theorem](CLT.html)
+* [7.7 Confidence intervals](https://youtu.be/j5DLUSVv5rE)
+* [7.8 Hypothesis testing](https://youtu.be/FHh6exuAYTQ)
 
 #### <a name="8"> 8 Sequences and series </a>
 
