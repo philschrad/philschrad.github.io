@@ -27,7 +27,7 @@ Date | Workshop | Content | [Lecturettes] | [Unit reader]
 5/1|| [*Census and Academic withdrawal*][census]
 8/1|9| Riemann sums and integrals with applications | 5.6, 5.7| 6.3, 6.5
 10/1|10| Double integrals |6.1-6.3 | 7.1
-12/1|11| Triple integrals |
+12/1|11| Triple integrals, centre of mass |6.4-6.6| 7.2,7.3
 15/1|12| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates
 17/1|13| Parametric forms of curves and surfaces, lengths of curves
 19/1|14| Path and surface integrals of functions and vector fields

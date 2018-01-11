@@ -91,6 +91,9 @@ MATH1011 Summer 2017/18
 * [6.1 Double integrals](https://youtu.be/F9OyWTy5j20)
 * [6.2 Calculating double integrals](https://youtu.be/J5tilmXIq1Q), continued [here](https://youtu.be/lkb1ihSYkxs)
 * [6.3 The integral as a weighted sum](https://youtu.be/tkvOk68l2xA)
+* [6.4 Triple integrals](https://youtu.be/J66NfnAkGCQ)
+* [6.5 Triple integrals - examples](https://youtu.be/qPZX4nQQsfU)
+* [6.6 Centre of mass](https://youtu.be/eDmq9uU7WvQ)
 
 #### <a name="7"> 7 Change of coordinates in double and triple integrals </a>
 
