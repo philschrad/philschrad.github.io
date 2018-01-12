@@ -95,6 +95,15 @@ MATH1012 *Summer 2017/18*
 
 #### <a name="8"> 8 Sequences and series </a>
 
+[notes](1012_8.pdf), [skeleton notes](1012_8_sk.pdf)
+
+* [8.1 Sequences and limits](https://youtu.be/ZcoBLZQoVx4) continued [here](https://youtu.be/yWG1TwTe8Og)
+* [8.2 Diverging to infinity](https://youtu.be/nLngsNjhdlo)
+* [8.3 Monotone sequences theorem](https://youtu.be/balrMktpHyA)
+* [8.4 Infinite series](https://youtu.be/ug--4IlSkvk) continued [here](https://youtu.be/9WC4ww7UsFo)
+* [8.5 Divergence test](https://youtu.be/GgijT5x63qE)
+
+
 #### <a name="9"> 9 Fourier series</a>
 
 #### <a name="10"> 10 Laplace transforms </a>
