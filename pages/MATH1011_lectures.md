@@ -74,7 +74,7 @@ MATH1011 Summer 2017/18
 [notes](1011_5.pdf)
 [skeleton notes](1011_5_sk.pdf)
 
-* [5.1 Integration review](https://youtu.be/Fo-g_mF2sQ8)
+* [5.1 Integration review](https://youtu.be/Fo-g_mF2sQ8)[]()
 * [5.2 Integration techniques](https://youtu.be/qu4KL-UF8Rw)
 * 5.3 Integration by inverse substitution (no video, not for assessment)
 * [5.4 Partial fractions](https://youtu.be/IZuLXtf68W8)
@@ -96,6 +96,12 @@ MATH1011 Summer 2017/18
 * [6.6 Centre of mass](https://youtu.be/dWrL5KnI1AU) continued [here](https://youtu.be/2yZJGx9lHf8)
 
 #### <a name="7"> 7 Change of coordinates in double and triple integrals </a>
+*The following are lecture captures from 2017 Semester 2 (lectures by Dr Miccal Matthews).*
+
+[notes and examples](1011_7.pdf) 
+
+* [7.1 Change of coordinates](https://youtu.be/PJ2yEmxSj_Q)
+* [7.2 Integrals in polar, cylindrical and spherical coordinates](https://youtu.be/cYkPE9N1Tag)
 
 #### <a name="8"> 8 Path and surface integrals </a>
 

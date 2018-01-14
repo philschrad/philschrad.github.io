@@ -89,9 +89,9 @@ MATH1012 *Summer 2017/18*
 * [7.4a Some probability density functions](https://youtu.be/5Nn_zWNtUI8)
 * [7.4b The normal distribution](https://youtu.be/rw9f9ojtyww)
 * [7.5 Statistical inference](https://youtu.be/cOCqYwexatg)
-* [7.6 The distribution of $$\bar X_n$$](https://youtu.be/PvZgkyaldqQ), a computer simulation of the [central limit theorem](CLT.html)
-* [7.7 Confidence intervals](https://youtu.be/j5DLUSVv5rE)
-* [7.8 Hypothesis testing](https://youtu.be/FHh6exuAYTQ), instructions for [how to load dice](https://www.youtube.com/watch?v=5jO9nV1ZtQU)
+* [7.6 The distribution of $$\bar X_n$$](https://youtu.be/Vsc4PZuj3Z0), a computer simulation of the [central limit theorem](CLT.html)
+* [7.7 Confidence intervals](https://youtu.be/UpXRivQhglI)
+* [7.8 Hypothesis testing](https://youtu.be/h9zOtTU_F3s), instructions for [how to load dice](https://www.youtube.com/watch?v=5jO9nV1ZtQU)
 
 #### <a name="8"> 8 Sequences and series </a>
 
@@ -102,6 +102,15 @@ MATH1012 *Summer 2017/18*
 * [8.3 Monotone sequences theorem](https://youtu.be/balrMktpHyA)
 * [8.4 Infinite series](https://youtu.be/ug--4IlSkvk) continued [here](https://youtu.be/9WC4ww7UsFo)
 * [8.5 Divergence test](https://youtu.be/GgijT5x63qE)
+
+*The following are lecture captures from 2017 Semester 2.*
+
+[notes](1012_8B.pdf)
+
+* [8.6 Comparison tests](https://youtu.be/IrN5aTODt_I)
+* [8.7 The integral test](https://youtu.be/qs-S4nblcW8)
+* [8.8 Alternating series test, ratio test](https://youtu.be/0cBEfq4Bka8)
+* [8.9 Ratio test, power series, Taylor series](https://youtu.be/CAxSvQ5vxco)
 
 
 #### <a name="9"> 9 Fourier series</a>

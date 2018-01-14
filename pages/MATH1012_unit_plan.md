@@ -25,7 +25,7 @@ Date | Workshop | Topics | [Lecturettes] | [Unit reader]
 8/1|9| probability models, random variables| 7.1-7.4| 8.1,8.2
 10/11|10| statistical inference, estimation, hypothesis testing|7.5-7.8| 8.3
 12/1|11| sequences and limits, series, test for divergence |8.1-8.5 |9.1, 9.2
-15/1|12| integral test, alternating series test, ratio test, power series
+15/1|12| integral test, alternating series test, ratio test, power series |8.6-8.9| 9.3-9.7
 17/1|13| Fourier series, coefficients, convergence, even and odd functions
 19/1|14| half range expansions, Parseval's theorem, differentiation and integration
 22/1|15| Laplace transforms, inverse laplace transforms
