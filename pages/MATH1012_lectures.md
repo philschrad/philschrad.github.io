@@ -105,7 +105,7 @@ MATH1012 *Summer 2017/18*
 
 *The following are lecture captures from 2017 Semester 2.*
 
-[notes](1012_8B.pdf)
+[notes](1012_8B.pdf) *(lecture 26 has been deliberately omitted, it was on improper integrals which we have covered already)*
 
 * [8.6 Comparison tests](https://youtu.be/IrN5aTODt_I)
 * [8.7 The integral test](https://youtu.be/qs-S4nblcW8)
