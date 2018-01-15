@@ -112,6 +112,8 @@ MATH1012 *Summer 2017/18*
 * [8.8 Alternating series test, ratio test](https://youtu.be/0cBEfq4Bka8)
 * [8.9 Ratio test, power series, Taylor series](https://youtu.be/CAxSvQ5vxco)
 
+[series cheat sheet](series_cheat_sheet.pdf)
+
 
 #### <a name="9"> 9 Fourier series</a>
 
