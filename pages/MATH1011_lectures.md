@@ -96,7 +96,7 @@ MATH1011 Summer 2017/18
 * [6.6 Centre of mass](https://youtu.be/dWrL5KnI1AU) continued [here](https://youtu.be/2yZJGx9lHf8)
 
 #### <a name="7"> 7 Change of coordinates in double and triple integrals </a>
-*The following are lecture captures from 2017 Semester 2 (lectures by Dr Miccal Matthews).*
+*The following are lecture captures and notes from 2017 Semester 2 (by Dr Miccal Matthews).*
 
 [notes and examples](1011_7.pdf) 
 
@@ -104,6 +104,13 @@ MATH1011 Summer 2017/18
 * [7.2 Integrals in polar, cylindrical and spherical coordinates](https://youtu.be/cYkPE9N1Tag)
 
 #### <a name="8"> 8 Path and surface integrals </a>
+*The following are lecture captures and notes from 2017 Semester 2 (by Dr Miccal Matthews)*
+
+[notes and examples](1011_8.pdf)
+
+* [8.1 Paths and lengths of curves](https://youtu.be/9zYU9wpKz0s)
+* [8.2 Path integrals](https://youtu.be/u5uJromNKdI)
+* [8.3 Surface parametrization and integration](https://youtu.be/NEPPt-WvcL4)
 
 #### <a name="9"> 9 Differential equations </a>
 
