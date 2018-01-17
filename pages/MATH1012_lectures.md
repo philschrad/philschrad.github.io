@@ -116,6 +116,7 @@ MATH1012 *Summer 2017/18*
 
 
 #### <a name="9"> 9 Fourier series</a>
+[Fourier series visualisation](https://bl.ocks.org/jinroh/7524988)
 
 *The following are lecture captures from 2017 Semester 2.*
 
@@ -124,6 +125,8 @@ MATH1012 *Summer 2017/18*
 * [9.1 Fourier series for $$2\pi$$-periodic functions](https://youtu.be/_uHoAIZwX1Q)
 * [9.2 Arbitrary period, convergence](https://youtu.be/9lHQvU5P4f8)
 * [9.3 Periodic extension, half range expansion, Parseval's theorem](https://youtu.be/DX1ELQISGFU)
+
+
 
 #### <a name="10"> 10 Laplace transforms </a>
 
