@@ -112,6 +112,10 @@ MATH1011 Summer 2017/18
 * [8.2 Path integrals](https://youtu.be/u5uJromNKdI)
 * [8.3 Surface parametrization and integration](https://youtu.be/NEPPt-WvcL4)
 
+[notes](1011_8B.pdf) and [skeleton notes](1011_8B_sk.pdf) on:
+ 
+* [8.4 Path integrals of (components of) vector fields](https://youtu.be/oHHd1gWSrFI) continued [here](https://youtu.be/IMYm9fYDICc)
+
 #### <a name="9"> 9 Differential equations </a>
 
 

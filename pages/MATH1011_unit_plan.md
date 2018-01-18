@@ -30,7 +30,7 @@ Date | Workshop | Content | [Lecturettes] | [Unit reader]
 12/1|11| Triple integrals, centre of mass |6.4-6.6| 7.2,7.3 
 15/1|12| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates| 7.1,7.2| Chapter 8
 17/1|13| Path and surface integrals of functions|8.1-8.3|Chapter 9
-19/1|14| Path and surface integrals of vector fields
+19/1|14| Path and surface integrals of vector fields|8.4| 10.1,10.3
 22/1|15|	Differential equations, solutions and applications, first order ODE solution techniques
 24/1|16|	Solution techniques for linear second order ODE
 26/1||*Australia Day, no classes*
