@@ -31,7 +31,7 @@ Date | Workshop | Content | [Lecturettes] | [Unit reader]
 15/1|12| Change of coordinates in double and triple integrals, polar, cylindrical and spherical coordinates| 7.1,7.2| Chapter 8
 17/1|13| Path and surface integrals of functions|8.1-8.3|Chapter 9
 19/1|14| Path and surface integrals of vector fields|8.4| 10.1,10.3
-22/1|15|	Differential equations, solutions and applications, first order ODE solution techniques
-24/1|16|	Solution techniques for linear second order ODE
+22/1|15|	Differential equations, solutions and applications, first order ODE solution techniques|9.1-9.3|12.1-12.3
+24/1|16|	Solution techniques for linear second order ODE|9.4-9.6|12.4-12.7
 26/1||*Australia Day, no classes*
 5/2-9/2||**Examination period**

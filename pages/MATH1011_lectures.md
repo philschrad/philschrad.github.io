@@ -117,5 +117,15 @@ MATH1011 Summer 2017/18
 * [8.4 Path integrals of (components of) vector fields](https://youtu.be/oHHd1gWSrFI) continued [here](https://youtu.be/IMYm9fYDICc)
 
 #### <a name="9"> 9 Differential equations </a>
+*lecture captures and notes from 2017 Semester 2 (by Dr Miccal Matthews)*
+
+[notes](1011_9.pdf) and [examples](1011_9_examples.pdf)
+
+* [9.1 Differential equations, direction fields](https://youtu.be/9rrXVZaUmZM)
+* [9.2 First order ODE](https://youtu.be/-FxHJg5W7Jw)
+* [9.3 First order ODE examples](https://youtu.be/-4zmhp-Su4M)
+* [9.4 Second order ODE](https://youtu.be/51eErw1852Q)
+* [9.5 Method of undetermined coefficients](https://youtu.be/4I12gdmMKsc)
+* [9.6 Variation of parameters](https://youtu.be/hcWZVoXJ6ms)
 
 

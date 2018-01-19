@@ -27,7 +27,7 @@ Date | Workshop | Topics | [Lecturettes] | [Unit reader]
 12/1|11| sequences and limits, series, test for divergence |8.1-8.5 |9.1, 9.2
 15/1|12| integral test, alternating series test, ratio test, power series |8.6-8.9| 9.3-9.7
 17/1|13| Fourier series, coefficients, convergence|9.1,9.2|10.1-10.4
-19/1|14| Even and odd functions, half range expansions, Parseval's theorem, differentiation and integration | 9.3|10.5
+19/1|14| Even and odd functions, half range expansions, Parseval's theorem, differentiation and integration | 9.3|10.5-10.9
 22/1|15| Laplace transforms, inverse laplace transforms
 24/1|16| Solving differential equations, shift theorems, derivatives and convolution
 26/1|| *Australia day - no classes*
