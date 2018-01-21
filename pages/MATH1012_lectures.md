@@ -130,3 +130,10 @@ MATH1012 *Summer 2017/18*
 
 #### <a name="10"> 10 Laplace transforms </a>
 
+[notes](1012_10.pdf), [skeleton notes](1012_10_sk.pdf)
+
+* [10.1 Laplace transforms](https://youtu.be/9fgOxJtSRcw)
+* [10.2 More examples](https://youtu.be/HkMPJdl5ykM)
+* [10.3 Linearity and partial fractions](https://youtu.be/wnOG45n_U8E)
+
+
