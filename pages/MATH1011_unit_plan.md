@@ -35,3 +35,4 @@ Date | Workshop | Content | [Lecturettes] | [Unit reader]
 24/1|16|	Solution techniques for linear second order ODE|9.4-9.6|12.4-12.7
 26/1||*Australia Day, no classes*
 5/2-9/2||**Examination period**
+2
