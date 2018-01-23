@@ -29,7 +29,7 @@ Date | Workshop | Topics | [Lecturettes] | [Unit reader]
 17/1|13| Fourier series, coefficients, convergence|9.1,9.2|10.1-10.4
 19/1|14| Even and odd functions, half range expansions, Parseval's theorem | 9.3|10.5-10.9
 22/1|15| Laplace transforms, inverse laplace transforms| 10.1-10.3| 11.1,11.2
-24/1|16| Solving differential equations, shift theorems, derivatives and convolution
+24/1|16| Solving differential equations, shift theorems and Heaviside|10.4-10.7| 11.3-11.5
 26/1|| *Australia day - no classes*
 5/2-9/2||**Examination period**
 

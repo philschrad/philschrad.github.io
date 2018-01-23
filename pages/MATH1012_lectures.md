@@ -135,5 +135,9 @@ MATH1012 *Summer 2017/18*
 * [10.1 Laplace transforms](https://youtu.be/9fgOxJtSRcw)
 * [10.2 More examples](https://youtu.be/HkMPJdl5ykM)
 * [10.3 Linearity and partial fractions](https://youtu.be/wnOG45n_U8E)
+* [10.4 Laplace transforms of derivatives]()
+* [10.5 Solving linear ODE]()
+* [10.6 Shift theorems]()
+* [10.7 Piecewise-defined functions]()
 
 
