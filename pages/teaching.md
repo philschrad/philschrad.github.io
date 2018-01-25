@@ -11,6 +11,7 @@ MATH1011
 * [unit plan](MATH1011_unit_plan.html) 
 * [lectures](MATH1011_lectures.html)
 * [problem sets](MATH1011_problems.html)
+* [exam study guide](1011_exam_study_guide.html)
 
 
 MATH1012
@@ -19,3 +20,4 @@ MATH1012
 * [unit plan](MATH1012_unit_plan.html) 
 * [lectures](MATH1012_lectures.html)
 * [problem sets](MATH1012_problems.html)
+* [exam study guide](1012_exam_study_guide.html)
