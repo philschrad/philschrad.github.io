@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-### UWA summer school 2017/18
+#### UWA summer school 2017/18
 
 MATH1011
 
@@ -21,3 +21,7 @@ MATH1012
 * [lectures](MATH1012_lectures.html)
 * [problem sets](MATH1012_problems.html)
 * [exam study guide](1012_exam_study_guide.html)
+
+#### MATH3032 Analysis and Geometry
+
+Some supplementary [lecture notes](supp_notes.pdf)
