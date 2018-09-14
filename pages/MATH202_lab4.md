@@ -194,7 +194,7 @@ quiver(T, Y, dT./L, dY./L)
 ```
 produces 
 
-<img src="pic12.PNG" width="400"/>
+<img src="pic12.jpg" width="400"/>
 
 
 This one looks OK, but there are still issues to fix. There is too much white space around the direction field and the vectors are overlapping in some places.
