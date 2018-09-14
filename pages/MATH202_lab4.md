@@ -290,8 +290,7 @@ Q4. Verify that $$\psi(y,x)= y^4(x) + 2x^2 - 16x + 8y(x)$$ is a potential functi
 ---
 Remember that since it is exact, any solution $$y(x)$$ of the FODE satisfies $$\psi(x,y(x))=c$$ for some constant $$c$$, i.e. *the solutions are contained in level curves of the potential.* This means a contour plot of the potential can give us a much clearer picture of the shape of solutions!
 
-<img src="pic23.PNG" alt="drawing" width="400"/>
-
+![](pic23.png)
 
 When coupled with a differential equation, these curves are called
 *integral curves*. The fact that ODE theory (such as Picard) implies that
