@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+#### MATH202 UOW Spring 2018
+
+[Lab 4: Visualisation of DEs](MATH202_lab4.html)
+
 #### UWA summer school 2017/18
 
 MATH1011
