@@ -49,13 +49,13 @@ plot(x,y)
 
 produce the plot 
 
-<img src="pic4.PNG" alt="drawing" width="300"/>
+<img src="pic4.PNG" alt="drawing" width="400"/>
 
---
+---
 **Q1** 
 Produce two plots of arrays containing the digits of your student ID and your library borrowing barcode.
 
---
+---
 
 ### Plotting graphs of functions
 
@@ -104,7 +104,7 @@ The plot is:
 
 
 
---
+---
 
 **Q2.** Plot the three functions 
 
@@ -116,7 +116,7 @@ $$ f:[-1,1] \to \mathbb R,\quad f(x)=\sin(x)$$
 
 on a single set of axes (you will need to use `hold on;` after your first `plot` command to make sure the second `plot` uses the same axes).
 
---
+---
 
 
 ### Direction fields
@@ -194,7 +194,7 @@ quiver(T, Y, dT./L, dY./L)
 ```
 produces 
 
-<img src="pic12.PNG" alt="drawing" width="400"/>
+<img src="pic12.PNG" width="400"/>
 
 
 This one looks OK, but there are still issues to fix. There is too much white space around the direction field and the vectors are overlapping in some places.
@@ -230,14 +230,14 @@ produce the red direction field below:
 It is important to keep in mind that these plots are *not* phase
 portraits, they are *slope fields* for one-dimensional differential equations (in lectures we distinguished them from 2D vector field phase portraits by using minitangents instead of little arrows).
 
---
+---
 **Q3.** Plot the direction field for 
 
 $$ y'(t) = t^3 - \frac{y(t)}{t}\,,$$
 
 a large enough rectangle and then use it to approximate by-hand solutions satisfying $y(1) = 0$ and $y(1) = 3$.
 
---
+---
 
 ### Contour plots
 
@@ -284,10 +284,10 @@ A direction field for this ODE looks like
 While the direction field does reveal some general idea of the shape of the
 solution, it isn't completely clear what solutions look like.
 
---
+---
 Q4. Verify that $$\psi(y,x)= y^4(x) + 2x^2 - 16x + 8y(x)$$ is a potential function for the exact FODE above.
 
---
+---
 Remember that since it is exact, any solution $$y(x)$$ of the FODE satisfies $$\psi(x,y(x))=c$$ for some constant $$c$$, i.e. *the solutions are contained in level curves of the potential.* This means a contour plot of the potential can give us a much clearer picture of the shape of solutions!
 
 <img src="pic23.PNG" alt="drawing" width="400"/>
@@ -300,7 +300,7 @@ Each integral curve corresponds to two solutions of the differential equation.
 The 'top' of the curve corresponds to an initial $$y$$-value that is greater than $$-2^{1/3}$$, and the `bottom' of the curve corresponds to an initial $$y$$-value that is less than $$-2^{1/3}$$.
 Can you explain where this number comes from?
 
---
+---
 **Q5.** Consider the exact FODE from your assignment:
 
 $$ 2tx(t)x'(t)+\cos(t)+x^2=tsin(t) $$
@@ -311,6 +311,6 @@ $$\psi(t,x)=tx^2+t\cos(t)$$
 
 Plot the slope field for this ODE together with some level curves for the contour on the domain $$[0,5]\times [0,5]$$. For extra fun, try some different domains. For extra extra fun add some forward-Euler solutions to your plot!
 
---
+---
 
 
