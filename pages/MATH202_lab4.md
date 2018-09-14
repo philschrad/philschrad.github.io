@@ -177,7 +177,7 @@ The code produces the plot:
 <img src="pic9.PNG" alt="drawing" width="400"/>
 
 
-The problem is with the automatic scaling feature of \emph{quiver}, combined
+The problem is with the automatic scaling feature of `quiver`, combined
 with the fact that all the vectors in the direction field above have vastly
 different lengths.
 To fix this, we can scale all the vectors to have unit length, by dividing each one by its length.
@@ -206,7 +206,7 @@ axis tight
 ``` 
 produces the much nicer plot
 
-<img src="pic14.PNG" alt="drawing" width="400"/>
+<img src="pic14.jpg" alt="drawing" width="400"/>
 
 
 Here the white space is removed with `axis tight` and the little vectors
@@ -224,7 +224,7 @@ quiver(T,Y, dT./L,dY./L, 0.5,'r'), axis tight
 
 produce the red direction field below:
 
-<img src="pic16.PNG" alt="drawing" width="400"/>
+<img src="pic16.jpg" alt="drawing" width="400"/>
 
 
 It is important to keep in mind that these plots are *not* phase
@@ -255,7 +255,7 @@ For example:
 [X,Y]=meshgrid(-5:0.2:5, -2:0.2:2);
 contour(X,Y, Y.^4+X.^2);
 ```
-<img src="pic20.PNG" alt="drawing" width="400"/>
+<img src="pic20.jpg" alt="drawing" width="400"/>
 
 
 To choose particular values of $$c$$ you can specify an optional argument to `contour` listing the values that you want
@@ -263,7 +263,7 @@ To choose particular values of $$c$$ you can specify an optional argument to `co
 ```
 contour(X,Y,Y.^4+X.^2, [1,4,16]);
 ```
-<img src="pic21.PNG" alt="drawing" width="400"/>
+<img src="pic21.jpg" alt="drawing" width="400"/>
 
 
 ### Direction fields and contour plots
@@ -278,7 +278,7 @@ plotting the generalised solutions as contours, and so it is helpful to think
 of them as set in the plane.
 A direction field for this ODE looks like
 
-<img src="pic22.PNG" alt="drawing" width="400"/>
+<img src="pic22.jpg" alt="drawing" width="400"/>
 
 
 While the direction field does reveal some general idea of the shape of the
@@ -290,7 +290,7 @@ Q4. Verify that $$\psi(y,x)= y^4(x) + 2x^2 - 16x + 8y(x)$$ is a potential functi
 ---
 Remember that since it is exact, any solution $$y(x)$$ of the FODE satisfies $$\psi(x,y(x))=c$$ for some constant $$c$$, i.e. *the solutions are contained in level curves of the potential.* This means a contour plot of the potential can give us a much clearer picture of the shape of solutions!
 
-![](pic23.png)
+![](pic23.jpg)
 
 When coupled with a differential equation, these curves are called
 *integral curves*. The fact that ODE theory (such as Picard) implies that
