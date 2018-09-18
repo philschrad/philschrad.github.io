@@ -235,7 +235,7 @@ portraits, they are *slope fields* for one-dimensional differential equations (i
 
 $$ y'(t) = t^3 - \frac{y(t)}{t}\,,$$
 
-a large enough rectangle and then use it to approximate by-hand solutions satisfying $y(1) = 0$ and $y(1) = 3$.
+a large enough rectangle and then use it to approximate by-hand solutions satisfying $$y(1) = 0$$ and $$y(1) = 3$$.
 
 ---
 
