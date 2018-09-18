@@ -166,7 +166,7 @@ $$	\{(t,y)\,:\,0\le t\le 8\,, -4\le y\le 4\}\,. $$
 We use the code above as a template, and write:
 
 ```
-[T Y]=meshgrid(0:0.2:4, -4:0.2:4);
+[T Y]=meshgrid(0:0.2:8, -4:0.2:4);
 dY=cos(2*T)-Y./T;
 dT=ones(size(dY));
 quiver (T,Y,dT,dY);
