@@ -7,7 +7,7 @@ title: Teaching
 
 Lab 4: [Visualisation of DEs](MATH202_lab4.html)
 
-Lab 5: [Runge-Kutta vs Euler](MATH2020_lab5.html)
+Lab 5: [Runge-Kutta vs Euler](MATH202_lab5.html)
 
 #### UWA summer school 2017/18
 
