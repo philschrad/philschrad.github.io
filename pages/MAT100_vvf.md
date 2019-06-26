@@ -45,6 +45,7 @@ $$c:[0,1]\to \mathbf R^2,\quad \mathbf c(t)=(\cos(2\pi t),\sin(2\pi t))$$
 ![](circle2.gif)
 
 ---
+
 $$\mathbf r:[0,4\pi]\to\mathbb R^3,\quad \mathbf r(t)=(\cos t,\sin t,t )$$
 
 ![](helix.gif)
