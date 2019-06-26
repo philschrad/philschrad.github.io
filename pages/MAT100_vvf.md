@@ -21,7 +21,7 @@ Where $$D\subset \mathbb R$$.
 Typical application: 
 
 * $$t$$ represents time, 
-* $$\mathbf r(t)$$ the position of an object at time $t$.
+* $$\mathbf r(t)$$ the position of an object at time $$t$$.
 
 We can visualise such functions using **parametric plots** : plot the point $$\mathbf r(t)$$ for each value of $$t$$.
 
