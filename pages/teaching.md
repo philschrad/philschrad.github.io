@@ -3,6 +3,10 @@ layout: page
 title: Teaching
 ---
 
+#### MAT100 Taylors College T2 2019
+
+[Vector valued functions](MAT100_vvf.html)
+
 #### MATH202 UOW Spring 2018
 
 Lab 4: [Visualisation of DEs](MATH202_lab4.html)
