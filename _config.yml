@@ -17,10 +17,10 @@ title: dr phil.
 author: phil schrader
 #email: philschrad google mail
 description: >- # this means to ignore newlines until "baseurl:"
-  Just some teaching stuff at the moment. Pushing content to github is a lot easier than uploading to blackboard LMS, hence this site.
+  Currently JSPS Postdoctoral fellow at Tohoku University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://philschrad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  philschrad
 
 # Build settings
@@ -31,7 +31,7 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
-  
+
 #titles_from_headings:
 #  enabled:     false
 
