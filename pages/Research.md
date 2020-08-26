@@ -3,7 +3,8 @@ layout: page
 title: Research
 ---
 
-**Current position:** JSPS postdoctoral research fellow at Tohoku University. My host is Professor Shinya Okabe. 
+**Current position:** JSPS postdoctoral research fellow at Tohoku University. My host is Professor Shinya Okabe. I'm working on some geometric ordinary (or partial integro-, depending on the point of view) differential equations. 
+
 
 ### Interests
 Geometric variational problems, differential geometry, global analysis, geometric flows. 
