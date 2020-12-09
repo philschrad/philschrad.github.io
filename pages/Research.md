@@ -5,7 +5,7 @@ title: Research
 
 ![](dumbbell.gif)
 
-**Current position:** JSPS postdoctoral research fellow at Tohoku University. My host is Professor Shinya Okabe. I'm working on Sobolev gradient flows of geometric functionals like length and average squared curvature. 
+**Current position:** JSPS postdoctoral research fellow at Tohoku University. My host is Professor Shinya Okabe. I'm working on Sobolev gradient flows of geometric functionals like length and total squared curvature. 
 
 
 ### Interests
