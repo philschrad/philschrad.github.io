@@ -9,7 +9,7 @@ title: Research
 
 I'm interested in geometric variational problems and flows, differential geometry, and global analysis. 
 
-###Preprints
+### Preprints
 
 P. Schrader, G. Wheeler and V.-M. Wheeler, [On the $$H^1(ds)$$- gradient flow for the length functional.](https://arxiv.org/abs/2102.07305) 2021
 
