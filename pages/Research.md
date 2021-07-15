@@ -11,7 +11,9 @@ I'm interested in geometric variational problems and flows, differential geometr
 
 ### Preprints
 
-P. Schrader, G. Wheeler and V.-M. Wheeler, [On the $$H^1(ds)$$- gradient flow for the length functional.](https://arxiv.org/abs/2102.07305) 2021
+S. Okabe, P. Schrader [Convergence of Sobolev gradient trajectories to elastica,](https://arxiv.org/abs/2107.06504) 2021
+
+P. Schrader, G. Wheeler and V.-M. Wheeler, [On the $$H^1(ds)$$- gradient flow for the length functional,](https://arxiv.org/abs/2102.07305) 2021
 
 ### Publications
 
