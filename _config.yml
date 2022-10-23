@@ -30,6 +30,7 @@ minima:
 
   # generate social links in footer
   social_links:
+    google_scholar_id: nLC2PUkAAAAJ
     # twitter: jekyllrb
     github:  philschrad
     # devto: jekyll
@@ -46,7 +47,7 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-    google_scholar_id: nLC2PUkAAAAJ
+    
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
