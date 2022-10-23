@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: dr phil.
 subtitle: Phil Schrader's homepage.
+logo: circ.gif
 banner: geto.jpg
 author: Phil Schrader
 email: philschrad google mail
