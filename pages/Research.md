@@ -6,7 +6,7 @@ title: Research
 I'm interested in geometric variational problems and flows, differential geometry, and global analysis. 
 
 
-Currently my research focuses on geometric Sobolev gradient flows. For example, the well-known [curve-shortening flow](https://en.wikipedia.org/wiki/Curve-shortening_flow) follows an $$L^2(ds)$$ gradient of the length of a curve, where $$ds$$ is the arc-length measure. However, a result of Michor an Mumford showing that the Riemannian metric induced by $$L^2(ds)$$ on the space of immersed curves is actually trivial. This suggests that one might discover some interesting behaviour by considering other gradients, such as those induced by Sobolev metrics. Below is an animation of the evolution of a closed curve under the $$H^1(ds)$$ curve-shortening (see [preprint](https://arxiv.org/abs/2102.07305), joint work with Glen and Valentina Wheeler). 
+Currently my research focuses on geometric Sobolev gradient flows. For example, the well-known [curve-shortening flow](https://en.wikipedia.org/wiki/Curve-shortening_flow) follows an $$L^2(ds)$$ gradient of the length of a curve, where $$ds$$ is the arc-length measure. However, by a result of [Michor and Mumford](https://doi.org/10.4171/jems/37) the Riemannian metric induced by $$L^2(ds)$$ on the space of immersed curves is actually trivial. This suggests that one might discover some interesting behaviour by considering other gradients, such as those induced by Sobolev metrics. Below is an animation of the evolution of a closed curve under the $$H^1(ds)$$ curve-shortening (see [preprint](https://arxiv.org/abs/2102.07305), joint work with Glen and Valentina Wheeler). 
 
 ![](dumbbell.gif)
 
