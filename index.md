@@ -7,3 +7,7 @@
 #
 layout: home
 ---
+
+Welcome to the homepage of Phil Schrader. 
+
+I'm currently a Lecturer in Mathematics at Murdoch University in Perth, Western Australia. 
