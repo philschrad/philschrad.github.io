@@ -1,0 +1,42 @@
+@mixin center() {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}
+
+@mixin alignToParent() {
+  position: absolute;
+  top: calc(50% - 1.5rem);
+  padding-left: 2rem;
+}
+
+@mixin easeLinks {
+  transition: all 0.5s ease-in-out;
+}
+
+/* mixin for multiline http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/ */
+@mixin multiLineEllipsis($lineHeight: 1.2em, $lineCount: 1, $bgColor: white) {
+  overflow: hidden;
+  position: relative;
+  line-height: $lineHeight;
+  max-height: $lineHeight * $lineCount;
+  text-align: justify;
+  margin-right: -1em;
+  padding-right: 1em;
+  &:before {
+    content: '...';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+  &:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.2em;
+    background: $bgColor;
+  }
+}
