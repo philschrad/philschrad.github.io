@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js" id="MathJax-script" async></script>
 
 <p align="center"><img src="gyroid.webp" alt="Gyroid surface" width="220"></p>
 
