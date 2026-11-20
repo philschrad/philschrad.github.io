@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: workshop
+tab_title: Geometric variational problems
 ---
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js" id="MathJax-script" async></script>
-
-<p align="center"><img src="gyroid.webp" alt="Gyroid surface" width="220"></p>
 
 # Geometric variational problems
+
+<img class="banner" src="gyroid.webp" alt="Gyroid surface">
 
 > This workshop brings together physicists and mathematicians working on geometric variational problems, with an emphasis on problems involving minimisation of the change in curvature along curves and surfaces. 
 

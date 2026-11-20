@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.tab_title | escape }}</title>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js" id="MathJax-script" async></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0 16px;
+      font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      color: #222;
+      background: #fff;
+    }
+    main { max-width: 760px; margin: 40px auto 80px; }
+    h1 { font-size: 2.1em; line-height: 1.2; margin: 0 0 16px; text-align: center; }
+    h2 { margin-top: 40px; }
+    h4 { font-size: 1.15em; margin: 24px 0 8px; }
+    a { color: #1a7f8e; }
+    img.banner { display: block; margin: 0 auto 24px; width: 200px; max-width: 60%; height: auto; }
+    blockquote { margin: 0 0 24px; padding: 0 16px; border-left: 4px solid #3bb8c4; color: #555; font-style: italic; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e5e5e5; vertical-align: top; }
+    td:first-child { white-space: nowrap; width: 1%; font-variant-numeric: tabular-nums; }
+    hr { border: 0; border-top: 1px solid #e5e5e5; margin: 32px 0; }
+    mjx-container { font-size: 105% !important; }
+  </style>
+</head>
+<body>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
