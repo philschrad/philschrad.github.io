@@ -28,12 +28,14 @@ tab_title: Geometric variational problems
 | 09:15  | Coffee & Welcome      |
 | 09:30  | Gerd Schröder-Turk: [Triply-periodic minimal surfaces with network topology and their (necessarily finite) Gauss curvature variations](#Gerd)               |
 | 10:30  | Morning Tea                     |
-| 11:00  | Hao Chen [The Primitive and Diamond surfaces locally minimize the variance of Gauss curvature](#Hao)            |
-| 12:00  | James Warman:  [Critical points of total squared spirality with length and curvature penalties](#James)                         |
+| 11:00  | Hao Chen: [The Primitive and Diamond surfaces locally minimize the variance of Gauss curvature](#Hao)            |
+| 12:00  | Jonas Kew: [The Sobolev gradient flow finds geodesics](#Jonas)             |
 | 13:00  | Lunch                       |
-| 14:00  | Jonas Kew: [The Sobolev gradient flow finds geodesics](#Jonas)             |
-| 15:00  | Glen Wheeler:    [Dynamical properties of the length-penalised ideal functional](#Glen)              |
-| 16:00  | Afternoon tea / discussion   |
+| 14:00  | Free time / discussion      |
+| 15:00  | Phil Schrader: Curves of minimax spirality             |
+| 16:00  | James Warman:  [Critical points of total squared spirality with length and curvature penalties](#James)                         |
+| 16:45  | Afternoon tea               |
+| 17:00  | Glen Wheeler:    [Dynamical properties of the length-penalised ideal functional](#Glen)              |
 | 18:00  | Dinner:  [Bar Apothecary](https://maps.app.goo.gl/bnABiuhXWPTFgvSD8)               |
 
 
@@ -87,6 +89,22 @@ Gyroid is also a local minimizer.
 
 
 ---
+<a id="Jonas"></a>
+
+#### The Sobolev gradient flow finds geodesics
+
+**Jonas Kew**,  University of Wollongong
+
+
+**Abstract**
+
+A negative $$H^1(ds)$$-type Sobolev gradient flow of the length functional for curves with fixed end points in a closed smooth Riemannian manifold is studied. Lacking the singularity issues of curve shortening flow, this model is suitable for finding geodesics between two points on a manifold. Indeed, it can be shown that the flow exists for all time and converges strongly to a distinct geodesic in the limit. We further show that since the flow preserves the homotopy class of the initial curve (relative to its endpoints), the geodesic found is of this specific class.
+
+
+
+[↑Back to schedule](#top)
+
+---
 <a id="James"></a>
 
 ####  Critical points of total squared spirality with length and curvature penalties
@@ -102,22 +120,6 @@ We study the energy functional $$\mathcal{F}[\gamma] = \int_\gamma k_s^2 +\lambd
 
 [↑Back to schedule](#top)
 
-
----
-<a id="Jonas"></a>
-
-#### The Sobolev gradient flow finds geodesics
-
-**Jonas Kew**,  University of Wollongong
-
-
-**Abstract**
-
-A negative $$H^1(ds)$$-type Sobolev gradient flow of the length functional for curves with fixed end points in a closed smooth Riemannian manifold is studied. Lacking the singularity issues of curve shortening flow, this model is suitable for finding geodesics between two points on a manifold. Indeed, it can be shown that the flow exists for all time and converges strongly to a distinct geodesic in the limit. We further show that since the flow preserves the homotopy class of the initial curve (relative to its endpoints), the geodesic found is of this specific class.
-
-
-
-[↑Back to schedule](#top)
 
 ---
 <a id="Glen"></a>
